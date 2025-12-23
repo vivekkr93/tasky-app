@@ -1,0 +1,13 @@
+# .NET
+backend/**/bin/
+backend/**/obj/
+backend/**/appsettings.*.json
+*.user
+*.suo
+
+# Node
+frontend/**/node_modules/
+frontend/**/.env
+
+# Misc
+.DS_Store

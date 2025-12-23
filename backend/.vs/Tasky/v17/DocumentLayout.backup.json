@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|c:\\users\\vivekkr\\documents\\my works\\tasky-app\\backend\\tasky.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|solutionrelative:tasky.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|c:\\users\\vivekkr\\documents\\my works\\tasky-app\\backend\\tasky.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|solutionrelative:tasky.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|c:\\users\\vivekkr\\documents\\my works\\tasky-app\\backend\\tasky.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|solutionrelative:tasky.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|c:\\users\\vivekkr\\documents\\my works\\tasky-app\\backend\\tasky.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|solutionrelative:tasky.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|c:\\users\\vivekkr\\documents\\my works\\tasky-app\\backend\\tasky.api\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6928426B-BE87-4BC9-BB3F-6911D045928D}|Tasky.Api\\Tasky.Api.csproj|solutionrelative:tasky.api\\model\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Tasky.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Tasky.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T07:51:02.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Tasky.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Program.cs",
+              "RelativeToolTip": "Tasky.Api\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:25:44.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Tasky.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\appsettings.json",
+              "RelativeToolTip": "Tasky.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T06:24:44.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Tasky.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Tasky.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:21:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Model\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Tasky.Api\\Model\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\VivekKR\\Documents\\My Works\\Tasky-App\\backend\\Tasky.Api\\Model\\TaskItem.cs",
+              "RelativeToolTip": "Tasky.Api\\Model\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:20:43.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
